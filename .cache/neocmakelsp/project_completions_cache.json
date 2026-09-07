@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-06T19:36:18.233292219+01:00",
+  "data": {
+    "/home/souach/Work/Big_Projects/Graphics_Engine/Sariel_version_0/CMakeLists.txt": [
+      {
+        "label": "CMAKE_RUNTIME_OUTPUT_DIRECTORY",
+        "kind": 12,
+        "detail": "Value",
+        "documentation": "defined variable\nfrom: /home/souach/Work/Big_Projects/Graphics_Engine/Sariel_version_0/CMakeLists.txt"
+      },
+      {
+        "label": "CMAKE_EXPORT_COMPILE_COMMANDS",
+        "kind": 12,
+        "detail": "Value",
+        "documentation": "defined variable\nfrom: /home/souach/Work/Big_Projects/Graphics_Engine/Sariel_version_0/CMakeLists.txt"
+      },
+      {
+        "label": "OpenGL_GL_PREFERENCE",
+        "kind": 12,
+        "detail": "Value",
+        "documentation": "defined variable\nfrom: /home/souach/Work/Big_Projects/Graphics_Engine/Sariel_version_0/CMakeLists.txt"
+      },
+      {
+        "label": "OpenGL_LIBRARIES",
+        "kind": 6,
+        "detail": "Variable",
+        "documentation": "package: OpenGL"
+      },
+      {
+        "label": "OpenGL_INCLUDE_DIRS",
+        "kind": 6,
+        "detail": "Variable",
+        "documentation": "package: OpenGL"
+      }
+    ]
+  }
+}
