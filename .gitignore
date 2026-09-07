@@ -8,6 +8,9 @@ out/
 *.out
 sariel
 
+# cache
+.cache/
+
 # CMake
 CMakeCache.txt
 CMakeFiles/
